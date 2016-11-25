@@ -220,7 +220,7 @@ if(typeof window.plugin !== 'function') window.plugin = function() {};
 
 // PLUGIN START ////////////////////////////////////////////////////////
 window.PLAYER_TRACKER_MAX_TIME = 3*60*60*1000; // in milliseconds
-window.PLAYER_TRACKER_MIN_ZOOM = 9;
+window.PLAYER_TRACKER_MIN_ZOOM = 8;
 window.PLAYER_TRACKER_MIN_OPACITY = 0.3;
 window.PLAYER_TRACKER_LINE_COLOUR = '#FF00FD';
 
